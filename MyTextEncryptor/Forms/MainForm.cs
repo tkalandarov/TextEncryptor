@@ -86,7 +86,7 @@ namespace MyTextEncryptor
         }
         private void OpenRepositoryButton_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://gitlab.com/jellysandwich/textencryptor");
+            System.Diagnostics.Process.Start("https://github.com/jellysndwich/TextEncryptor");
         }
 
         // Useful additional methods:

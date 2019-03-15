@@ -191,8 +191,8 @@
             this.OpenRepositoryButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
             this.OpenRepositoryButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.OpenRepositoryButton.Name = "OpenRepositoryButton";
-            this.OpenRepositoryButton.Size = new System.Drawing.Size(104, 22);
-            this.OpenRepositoryButton.Text = "GitLab Repository";
+            this.OpenRepositoryButton.Size = new System.Drawing.Size(108, 22);
+            this.OpenRepositoryButton.Text = "GitHub Repository";
             this.OpenRepositoryButton.Click += new System.EventHandler(this.OpenRepositoryButton_Click);
             // 
             // StartButton
